@@ -1,0 +1,50 @@
+# ===== MATLAB =====
+*.asv
+*.autosave
+*.mex*    
+*.mlx.autosave
+*.mdl.autosave
+*.slx.autosave
+
+# Simulink generated files
+slprj/
+sccprj/
+*.slxc/
+
+# MATLAB project files
+*.mlproj
+*.prj
+
+# ===== Data files (ignore large data) =====
+*.mat
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.json
+*.pkl
+*.npz
+*.bin
+
+# ===== Images =====
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.svg
+*.pdf
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+
+# ===== Archives =====
+*.zip
+*.tar
+*.tar.gz
+*.7z
